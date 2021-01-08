@@ -7,7 +7,6 @@
   <code><a href="https://www.hackerrank.com/kalash_strt" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/k99.sharma/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
 
 ### About Me 🚀
 Welcome to my page!<br />
@@ -21,7 +20,7 @@ Welcome to my page!<br />
 **Talking about Personal Stuffs:**
 
 - :bulb: I’m currently working on some side projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning <img title="C" height="25" src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
 - :satellite: How to reach me: [Kalash Sharma](https://www.linkedin.com/in/kalash-sharma-a4a6a6194/)
 - :confused: I’m looking for help with Open Source
 - :grinning: Pronouns: he/him
@@ -38,6 +37,9 @@ Welcome to my page!<br />
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+  <code><img title="C" height="25" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+  <code><img title="C" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
 </p>
