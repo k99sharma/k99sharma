@@ -14,7 +14,7 @@ Welcome to my page!<br />
 :beginner: I am passionate about Web Dev, Machine Learning & I enjoy learning new things. <br />
 
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/aTf4PONtSYB1e/giphy.gif?cid=ecf05e47fp7gyu3j5g530a545x4f2kxtpy9epj88fv6yt4td&rid=giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/xUNd9DL4a9bJHnlI8U/giphy.gif?cid=ecf05e47m9sj6c11bw94gfhaftkzwsk1y1yuirahiileum8x&rid=giphy.gif" width="500" height="320" />
 <br />
 
 **Talking about Personal Stuffs:**
