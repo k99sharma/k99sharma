@@ -14,7 +14,7 @@ Welcome to my page!<br />
 :beginner: I am passionate about Web Dev, Machine Learning & I enjoy learning new things. <br />
 
 
-<img align="right" src="https://images.unsplash.com/photo-1596003906949-67221c37965c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" width="500" height="320" />
+<img align="right" src="https://cdn.pixabay.com/photo/2020/05/28/15/56/digitization-5231610_1280.jpg" width="500" height="320" />
 <br />
 
 **Talking about Personal Stuffs:**
