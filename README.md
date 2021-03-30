@@ -21,7 +21,7 @@ Welcome to my page!<br />
 
 - :bulb: I’m currently working on some side projects
 - 🌱 I’m currently learning <img title="C" height="25" src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
-- :satellite: How to reach me: [Kalash Sharma](www.kalashsharma.me)
+- :satellite: How to reach me: [Kalash Sharma](https://www.kalashsharma.me)
 - :confused: I’m looking for help with API Developement
 - :grinning: Pronouns: he/him
 
