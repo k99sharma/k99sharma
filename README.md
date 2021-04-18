@@ -12,7 +12,7 @@ Welcome to my profile!<br />
 :mortar_board:  I'm [Kalash Sharma](https://www.linkedin.com/in/kalash-sharma-a4a6a6194/)! , a self-taught Developer & a junior pursuing my Bachelors in Computer Science & Engineering. <br />
 :beginner: I am passionate about Web Dev, Artificial Intelligence, Virtual Reality & I enjoy learning new things. <br />
 
-<img align="right" src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47xcym2cduka1yk92cjh6l8m00zr9le7xwy7tdnb5h&rid=giphy.gif" width="450" height="300" />
+<img align="right" src="https://media1.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif?cid=ecf05e47e6t2rj80vw2qjnvxhn3q2bme3n3e830dg2xkimm6&rid=giphy.gif&ct=g" width="450" height="300" />
 <br />
 
 **Talking about Personal Stuffs:**
