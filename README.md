@@ -59,6 +59,3 @@ Welcome to my profile!<br />
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=k99sharma&theme=tokyonight" />
 </p>
-<br /><br />
-![GitHub last commit](https://img.shields.io/github/last-commit/k99sharma/k99sharma)
-
