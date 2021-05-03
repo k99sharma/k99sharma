@@ -55,6 +55,10 @@ Welcome to my profile!<br />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k99sharma&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
-
+<br />
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=k99sharma&theme=tokyonight" />
+</p>
+<br /><br />
 ![GitHub last commit](https://img.shields.io/github/last-commit/k99sharma/k99sharma)
-![pv](https://pageview.vercel.app/?github_user=k99sharma)
+
