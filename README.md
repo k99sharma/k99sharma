@@ -5,7 +5,7 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/kalash-sharma-a4a6a6194/" target="_blank" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/k99.sharma/" target="_blank" title="Instagram Profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/kalashsharma99/" target="_blank" title="Instagram Profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://codepen.io/ghost_32" target="_blank" title="Instagram Profile"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </h5>
 
