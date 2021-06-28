@@ -1,4 +1,5 @@
-![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/54969439/123625735-b105b000-d82d-11eb-8d81-644580dbfe59.gif)
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/54969439/123625911-e14d4e80-d82d-11eb-95c8-9c57db51261c.png)
+
 
 
 ### Bonjour :ghost:! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
