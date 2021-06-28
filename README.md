@@ -11,7 +11,7 @@
 
 ### About Me 🚀
 Welcome to my profile!<br />
-:mortar_board:  I'm [Kalash Sharma](https://www.linkedin.com/in/kalash-sharma-a4a6a6194/)! a self-taught Developer & a junior pursuing my Bachelors in Computer Science & Engineering. <br />
+:mortar_board:  I'm [Kalash Sharma](https://www.linkedin.com/in/kalashsharma99/)! a self-taught Developer & a junior pursuing my Bachelors in Computer Science & Engineering. <br />
 :beginner: I am passionate about Open Source, Web Development, Artificial Intelligence, Virtual Reality & I also love to learn new things. <br />
 
 <img align="right" src="https://media1.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif?cid=ecf05e47e6t2rj80vw2qjnvxhn3q2bme3n3e830dg2xkimm6&rid=giphy.gif&ct=g" width="450" height="300" />
