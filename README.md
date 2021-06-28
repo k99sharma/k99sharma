@@ -1,4 +1,5 @@
-<img src="Ghost_32.gif">
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/54969439/123625735-b105b000-d82d-11eb-8d81-644580dbfe59.gif)
+
 
 ### Bonjour :ghost:! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <br />
