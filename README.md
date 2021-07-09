@@ -4,9 +4,8 @@
 <br />
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/kalash-sharma-a4a6a6194/" target="_blank" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/kalashsharma99/" target="_blank" title="Instagram Profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://codepen.io/ghost_32" target="_blank" title="Instagram Profile"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://twitter.com/kalashsharma99" target="_blank" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </h5>
 
 ### About Me 🚀
@@ -20,9 +19,9 @@ Welcome to my profile!<br />
 **Talking about Personal Stuffs:**
 
 - :bulb: I’m currently working on some cool side projects!
-- 🌱 I’m currently learning <img title="C" height="25" src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
+- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 - :satellite: How to reach me: [Kalash Sharma](https://www.kalashsharma.me)
-- :confused: I’m looking for help with API Developement
+- :confused: I’m looking for help with Django
 - :grinning: Pronouns: he/him
 
 <br />
