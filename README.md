@@ -1,5 +1,4 @@
-![Blue and White Architect LinkedIn Banner (1)](https://user-images.githubusercontent.com/54969439/123627210-58cfad80-d82f-11eb-806e-4f33a78305b5.png)
-
+<a href="https://www.kalashsharma.me/"><img src="https://user-images.githubusercontent.com/54969439/123627210-58cfad80-d82f-11eb-806e-4f33a78305b5.png" alt="banner"  /></a>
 ### Bonjour :ghost:! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <br />
 
