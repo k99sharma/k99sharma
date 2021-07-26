@@ -42,9 +42,6 @@ Welcome to my profile!<br />
   <br /><br />
 </p>
 <br />
- 
-<hr>
-
 <br />
 
 <p align=center>
