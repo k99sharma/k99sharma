@@ -45,6 +45,6 @@ Welcome to my profile!<br />
 <br />
 
 <p align=center>
-  <img height=175 src="https://github-readme-streak-stats.herokuapp.com/?user=k99sharma&theme=tokyonight" />
-  <img height=175 src="https://github-readme-stats.vercel.app/api?username=k99sharma&show_icons=true&theme=tokyonight" />
+  <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=k99sharma&theme=tokyonight" />
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=k99sharma&show_icons=true&theme=tokyonight" />
 </p>
