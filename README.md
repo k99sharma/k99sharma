@@ -19,7 +19,7 @@ Welcome to my profile!<br />
 
 - :bulb: I’m currently working on some cool side projects!
 - 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-- :satellite: How to reach me: [Kalash Sharma](https://www.kalashsharma.me)
+- :satellite: How to reach me: [Kalash Sharma](https://twitter.com/kalashsharma99)
 - :confused: I’m looking for help with Django
 - :grinning: Pronouns: he/him
 
