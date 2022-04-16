@@ -15,7 +15,7 @@ Welcome to my profile!<br />
 :mortar_board:  I'm [Kalash Sharma](https://www.linkedin.com/in/kalashsharma99/)! a self-taught Developer & a junior pursuing my Bachelors in Computer Science & Engineering. <br />
 :beginner: I am passionate about Open Source, Web Development, Artificial Intelligence, Virtual Reality & I also love to learn new things. <br />
 
-<img align="right" src="cat-dancing.gif" width="450" height="300" />
+<img align="right" src="goku-thumbs-up.gif" width="450" height="300" />
 <br />
 
 **Talking about Personal Stuffs:**
