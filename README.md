@@ -24,6 +24,16 @@
 
 <br />
 
-Welcome to my profile!  
+**Welcome to my profile!**
+
 🛡 I'm [Kalash Sharma](https://www.kalashsharma.com), a self-taught developer and Computer Science Student.  
 🎯 I am passionate about Open Source, Web Development, DevOps, Artificial Intelligence & I also 💛 to learn new things.
+
+<img width="350px" height="200px" align="right" src="./assets/readme_gif.gif" alt="readme gif" />
+
+**Talking about personal stuff:**
+
+- 💡 I'm currently working on some cool side projects!
+- ☘ I'm currently improving my data structures & algorithms concepts.
+- 📡 How to reach me: [Mail Me](mailto:kalash.strt@gmail.com)
+- 😀 Pronouns: he/him
