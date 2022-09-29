@@ -36,4 +36,14 @@
 - 💡 I'm currently working on some cool side projects!
 - ☘ I'm currently improving my data structures & algorithms concepts.
 - 📡 How to reach me: [Mail Me](mailto:kalash.strt@gmail.com)
+- 🤝I'm looking for help with ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - 😀 Pronouns: he/him
+
+<br />
+<br />
+
+<!-- GitHub Stats -->
+<div align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=k99sharma&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
+<img width="420" src="https://streak-stats.demolab.com?user=k99sharma&theme=highcontrast" alt="github readme streak stats" />
+</div>
