@@ -59,7 +59,6 @@
 <br />
 
 <!-- GitHub Stats -->
-<div align="center">
+<div>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=k99sharma&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
-<img width="400" src="https://streak-stats.demolab.com?user=k99sharma&theme=highcontrast" alt="github readme streak stats" />
 </div>
