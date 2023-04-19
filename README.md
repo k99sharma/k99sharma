@@ -59,6 +59,6 @@
 <br />
 
 <!-- GitHub Stats -->
-<div>
+<!-- <div>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=k99sharma&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
-</div>
+</div> -->
