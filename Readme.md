@@ -2,7 +2,7 @@
 
 🎯 Full-Stack Developer | Java • Spring Boot • JavaScript • React  
 🛠️ Passionate about building scalable web applications and clean backend systems  
-🌱 Currently exploring Applied AI. 
+🌱 Currently exploring Applied AI.
 📚 Always learning: Applied AI, System Design, and building high-performance products  
 💬 Let's connect and collaborate on meaningful projects!
 
@@ -40,7 +40,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: kalash.dev@gmail.com  
+- 📧 Email: kalash.strt@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kalashsharma99)  
 - 🖥️ [Portfolio](https://www.kalashsharma.com)  
 
