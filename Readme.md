@@ -2,8 +2,8 @@
 
 🎯 Full-Stack Developer | Java • Spring Boot • JavaScript • React  
 🛠️ Passionate about building scalable web applications and clean backend systems  
-🌱 Currently exploring open-source contributions and modern development workflows  
-📚 Always learning: DevOps, System Design, and building high-performance products  
+🌱 Currently exploring Applied AI. 
+📚 Always learning: Applied AI, System Design, and building high-performance products  
 💬 Let's connect and collaborate on meaningful projects!
 
 ## 💼 About Me
